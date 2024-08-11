@@ -1,0 +1,19 @@
+.odd-elem{
+    background-color: pink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#sec-elem{
+    color: blue;
+    font-size: 36px;
+}
+
+.III-elem-font-size{
+    font-size: 24px;
+}
+
+#IVth-elem{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
